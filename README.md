@@ -1,7 +1,3 @@
-Perfect! I’ve created a **fully polished, portfolio-ready README** for your **Car Insurance ML project**, with badges, hero header, clean sections, and live-demo style formatting—matching the style of your Disaster Management README. You can drop this straight into GitHub.
-
----
-
 # 🚗 AI-Powered Car Insurance Risk & Premium Model
 
 <p align="center">
@@ -110,7 +106,7 @@ flowchart TD
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/car-insurance-ml.git
+git clone https://github.com/Lenny-Lewis/Car-insurance-model.git
 cd car-insurance-ml
 
 # Create virtual environment
